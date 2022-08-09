@@ -1,4 +1,4 @@
-:house:[Home](https://github.com/DevilsTear/go-design-patterns/README.md "Table of Contents") | :file_folder:[Structural Design Patterns](https://github.com/DevilsTear/go-design-patterns/structural/README.md "Table of Contents")
+:house:[Home](https://github.com/DevilsTear/go-design-patterns/README.md "Table of Contents") | :file_folder:[Structural Design Patterns](https://github.com/DevilsTear/go-design-patterns/gangs-of-four/structural/README.md "Structural Design Patterns Table of Contents")
 # Decorator design pattern
 This pattern is the big brother of the Proxy pattern, and maybe, one of the
 most powerful design patterns of all. The **Decorator** pattern is pretty simple, but, for

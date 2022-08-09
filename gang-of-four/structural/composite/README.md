@@ -1,9 +1,9 @@
-:house:[Home](https://github.com/DevilsTear/go-design-patterns/README.md "Table of Contents") | :file_folder:[Structural Design Patterns](https://github.com/DevilsTear/go-design-patterns/structural/README.md "Table of Contents")
+:house:[Home](https://github.com/DevilsTear/go-design-patterns/README.md "Table of Contents") | :file_folder:[Structural Design Patterns](https://github.com/DevilsTear/go-design-patterns/gangs-of-four/structural/README.md "Structural Design Patterns Table of Contents")
 # Composite design pattern
 The Composite design pattern favors composition (commonly defined as a has a
 relationship) over inheritance (an is a relationship). The composition over inheritance approach
 has been a source of discussions among engineers since the nineties. We will learn how to
-create object structures by using a has a approach. All in all, Go doesn't have inheritance
+create object structures by using a has an approach. All in all, Go doesn't have inheritance
 because it doesn't need it!
 
 In the Composite design pattern, you will create hierarchies and trees of objects. Objects
@@ -40,6 +40,7 @@ We will solve the described problem of the athlete and the fish that swims in a 
 idiomatic Go way. With Go, we can use two types of composition–the direct composition
 and the embedding composition. We will first solve this problem by using direct
 composition which is having everything that is needed as fields within the struct.
+
 ## Requirements and acceptance criteria
 Requirements are like the ones described previously. We'll have an athlete and a swimmer.
 We will also have an animal and a fish. The Swimmer and the Fish methods must share the
@@ -47,11 +48,10 @@ code. The athlete must train, and the animal must eat:
 - We must have an Athlete struct with a Train method
 - We must have a Swimmer with a Swim method
 - We must have an Animal struct with an Eat method
-- We must have a Fish struct with a Swim method that is shared with the
-  Swimmer, and not have inheritance or hierarchy issues
+- We must have a Fish struct with a Swim method that is shared with the Swimmer, and not have inheritance or hierarchy issues
 
 ## Wrap up the Composite pattern
 At this point, you should be really comfortable using the Composite design pattern. It's a
 very idiomatic Go feature, and the switch from a pure object-oriented language is not very
 painful. The Composite design pattern makes our structures predictable but also allows us
-to create most of the design patterns as we will see in later chapters.
+to create most of the design patterns as we will see in other chapters.

@@ -1,4 +1,4 @@
-:house:[Home](https://github.com/DevilsTear/go-design-patterns/README.md "Table of Contents") | :file_folder:[Creational Design Patterns](https://github.com/DevilsTear/go-design-patterns/creational/README.md "Table of Contents")
+:house:[Home](https://github.com/DevilsTear/go-design-patterns/README.md "Table of Contents") | :file_folder:[Creational Design Patterns](https://github.com/DevilsTear/go-design-patterns/gangs-of-four/creational/README.md "Creational Design Patterns Table of Contents")
 # Prototype design pattern
 Like all creational patterns, this too comes in handy when creating objects, and it is very common to see the
 Prototype pattern surrounded by more patterns.
