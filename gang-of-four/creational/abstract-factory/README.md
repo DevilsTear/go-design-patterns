@@ -1,4 +1,4 @@
-:house:[Home](https://github.com/DevilsTear/go-design-patterns/ "Table of Contents") | :file_folder:[Creational Design Patterns](https://github.com/DevilsTear/go-design-patterns/gang-of-four/creational/ "Creational Design Patterns Table of Contents")
+:house:[Home](https://github.com/DevilsTear/go-design-patterns/ "Table of Contents") | :file_folder:[Creational Design Patterns](https://github.com/DevilsTear/go-design-patterns/tree/main/gang-of-four/creational/ "Creational Design Patterns Table of Contents")
 # Abstract Factory – a factory of factories
 The Abstract Factory design pattern is a new layer of grouping to achieve a bigger (and
 more complex) composite object, which is used through its interfaces. The idea behind

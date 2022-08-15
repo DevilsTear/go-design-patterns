@@ -1,4 +1,4 @@
-:house:[Home](https://github.com/DevilsTear/go-design-patterns/ "Table of Contents") | :file_folder:[Structural Design Patterns](https://github.com/DevilsTear/go-design-patterns/gang-of-four/structural/ "Structural Design Patterns Table of Contents")
+:house:[Home](https://github.com/DevilsTear/go-design-patterns/ "Table of Contents") | :file_folder:[Structural Design Patterns](https://github.com/DevilsTear/go-design-patterns/tree/main/gang-of-four/structural/ "Structural Design Patterns Table of Contents")
 # Composite design pattern
 The Composite design pattern favors composition (commonly defined as a has a
 relationship) over inheritance (an is a relationship). The composition over inheritance approach

@@ -1,4 +1,4 @@
-:house:[Home](https://github.com/DevilsTear/go-design-patterns/ "Table of Contents") | :file_folder:[Structural Design Patterns](https://github.com/DevilsTear/go-design-patterns/gang-of-four/structural/ "Structural Design Patterns Table of Contents")
+:house:[Home](https://github.com/DevilsTear/go-design-patterns/ "Table of Contents") | :file_folder:[Structural Design Patterns](https://github.com/DevilsTear/go-design-patterns/tree/main/gang-of-four/structural/ "Structural Design Patterns Table of Contents")
 # Facade design pattern
 We'll see in this chapter is the Facade pattern. When we discussed the
 Proxy pattern, you got to know that it was a way to wrap a type to hide some of its

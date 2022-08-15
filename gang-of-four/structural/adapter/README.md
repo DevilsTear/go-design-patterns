@@ -1,4 +1,4 @@
-:house:[Home](https://github.com/DevilsTear/go-design-patterns/ "Table of Contents") | :file_folder:[Structural Design Patterns](https://github.com/DevilsTear/go-design-patterns/gang-of-four/structural/ "Structural Design Patterns Table of Contents")
+:house:[Home](https://github.com/DevilsTear/go-design-patterns/ "Table of Contents") | :file_folder:[Structural Design Patterns](https://github.com/DevilsTear/go-design-patterns/tree/main/gang-of-four/structural/ "Structural Design Patterns Table of Contents")
 # Adapter design pattern
 One of the most commonly used structural patterns is the Adapter pattern. Like in real life,
 where you have plug adapters and bolt adapters, in Go, an adapter will allow us to use
