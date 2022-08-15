@@ -1,4 +1,4 @@
-:house:[Home](https://github.com/DevilsTear/go-design-patterns/ "Table of Contents") | :file_folder:[Creational Design Patterns](https://github.com/DevilsTear/go-design-patterns/gangs-of-four/creational/ "Creational Design Patterns Table of Contents")
+:house:[Home](https://github.com/DevilsTear/go-design-patterns/ "Table of Contents") | :file_folder:[Creational Design Patterns](https://github.com/DevilsTear/go-design-patterns/gang-of-four/creational/ "Creational Design Patterns Table of Contents")
 # Factory method – delegating the creation of different types of payments
 The purpose is to abstract the user from the knowledge
 of the struct he needs to achieve for a specific purpose, such as retrieving some value,
