@@ -1,1 +1,1 @@
-:house:[Home](https://github.com/DevilsTear/go-design-patterns/README.md "Table of Contents") | :file_folder:[Behevioral Design Patterns](https://github.com/DevilsTear/go-design-patterns/gangs-of-four/behavioral/README.md "Behavioral Design Patterns Table of Contents")
+:house:[Home](https://github.com/DevilsTear/go-design-patterns/ "Table of Contents") | :file_folder:[Behevioral Design Patterns](https://github.com/DevilsTear/go-design-patterns/gangs-of-four/behavioral/ "Behavioral Design Patterns Table of Contents")

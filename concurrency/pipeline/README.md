@@ -1,4 +1,4 @@
-:house:[Home](https://github.com/DevilsTear/go-design-patterns/README.md "Table of Contents") | :file_folder:[Concurrency Design Patterns](https://github.com/DevilsTear/go-design-patterns/concurrency/README.md "Concurrency Design Patterns Table of Contents")
+:house:[Home](https://github.com/DevilsTear/go-design-patterns/ "Table of Contents") | :file_folder:[Concurrency Design Patterns](https://github.com/DevilsTear/go-design-patterns/tree/main/concurrency/ "Concurrency Design Patterns Table of Contents")
 # Pipeline design pattern
 We will use this pattern heavily in our concurrent structures, and we can consider it one of the most
 useful too.

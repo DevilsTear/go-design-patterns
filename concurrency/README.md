@@ -1,11 +1,11 @@
-:house:[Home](https://github.com/DevilsTear/go-design-patterns/README.md "Table of Contents")
+:house:[Home](https://github.com/DevilsTear/go-design-patterns/ "Table of Contents")
 # Concurrency Design Patterns
 After we are familiar with the concepts of concurrency and parallelism, and we have
 understood how to achieve them by using Go's concurrency primitives, we can see some
 patterns regarding concurrent work and parallel execution. 
 
 We'll see the following patterns:
-- [Barrier](https://github.com/DevilsTear/go-design-patterns/concurrency/barrier/README.md "Barrier Design Pattern in Go") is a very common pattern, especially when we have to wait for more than
+- [Barrier](https://github.com/DevilsTear/go-design-patterns/tree/main/concurrency/barrier/ "Barrier Design Pattern in Go") is a very common pattern, especially when we have to wait for more than
   one response from different Goroutines before letting the program continue
 - Future pattern allows us to write an algorithm that will be executed eventually in
   time (or not) by the same Goroutine or a different one

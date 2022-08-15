@@ -1,4 +1,4 @@
-:house:[Home](https://github.com/DevilsTear/go-design-patterns/README.md "Table of Contents") | :file_folder:[Structural Design Patterns](https://github.com/DevilsTear/go-design-patterns/gangs-of-four/structural/README.md "Structural Design Patterns Table of Contents")
+:house:[Home](https://github.com/DevilsTear/go-design-patterns/ "Table of Contents") | :file_folder:[Structural Design Patterns](https://github.com/DevilsTear/go-design-patterns/gangs-of-four/structural/ "Structural Design Patterns Table of Contents")
 # Flyweight design pattern
 Flyweight design pattern is very commonly used in computer
 graphics and the video game industry, but not so much in enterprise applications.

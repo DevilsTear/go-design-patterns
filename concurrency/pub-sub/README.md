@@ -1,4 +1,4 @@
-:house:[Home](https://github.com/DevilsTear/go-design-patterns/README.md "Table of Contents") | :file_folder:[Concurrency Design Patterns](https://github.com/DevilsTear/go-design-patterns/concurrency/README.md "Concurrency Design Patterns Table of Contents")
+:house:[Home](https://github.com/DevilsTear/go-design-patterns/ "Table of Contents") | :file_folder:[Concurrency Design Patterns](https://github.com/DevilsTear/go-design-patterns/tree/main/concurrency/ "Concurrency Design Patterns Table of Contents")
 # Concurrent Publish/Subscriber design pattern
 In this section, we will implement the Observer design pattern which is a Behavioral pattern, 
 but with a concurrent structure and thread safety.

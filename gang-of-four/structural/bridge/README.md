@@ -1,4 +1,4 @@
-:house:[Home](https://github.com/DevilsTear/go-design-patterns/README.md "Table of Contents") | :file_folder:[Structural Design Patterns](https://github.com/DevilsTear/go-design-patterns/gangs-of-four/structural/README.md "Structural Design Patterns Table of Contents")
+:house:[Home](https://github.com/DevilsTear/go-design-patterns/ "Table of Contents") | :file_folder:[Structural Design Patterns](https://github.com/DevilsTear/go-design-patterns/gangs-of-four/structural/ "Structural Design Patterns Table of Contents")
 # Bridge design pattern
 The Bridge pattern is a design with a slightly cryptic definition from the original Gang of
 Four book. It decouples an abstraction from its implementation so that the two can vary

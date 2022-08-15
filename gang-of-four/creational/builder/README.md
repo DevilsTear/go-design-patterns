@@ -1,4 +1,4 @@
-:house:[Home](https://github.com/DevilsTear/go-design-patterns/README.md "Table of Contents") | :file_folder:[Creational Design Patterns](https://github.com/DevilsTear/go-design-patterns/gangs-of-four/creational/README.md "Creational Design Patterns Table of Contents")
+:house:[Home](https://github.com/DevilsTear/go-design-patterns/ "Table of Contents") | :file_folder:[Creational Design Patterns](https://github.com/DevilsTear/go-design-patterns/gangs-of-four/creational/ "Creational Design Patterns Table of Contents")
 # Builder design pattern – reusing an algorithm to create many implementations of an interface
 Talking about Creational design patterns, it looks pretty semantic to have a Builder design
 pattern. The Builder pattern helps us construct complex objects without directly
